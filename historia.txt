@@ -1,0 +1,7 @@
+Poczatek mojej pracy:
+Projekt nr 1
+
+
+Po przerwie zmodyfikowałem plk i dodałem to:
+
+<!--koment 1--!>
